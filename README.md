@@ -1,2 +1,2 @@
 # ise1
-this is my first Git repository
+performing operations like add, push,pull
